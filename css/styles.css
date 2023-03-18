@@ -1,10 +1,17 @@
 body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
+  color:#434455;
+  background-color: #FFFFFF;
 }
+
 .header {
 }
+
 .header-navigation {
+}
+.header-link-logo{
+  
 }
 .header-link {
   font-weight: 500;
