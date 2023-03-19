@@ -5,18 +5,9 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --color-iris: rgba(77, 90, 229);
-  --color-ocean: rgba(64, 75, 191);
-  --color-navy-blue: rgba(46, 47, 66);
-  --color-green: rgba(49, 208, 170);
-  --color-slate: rgba(67, 68, 85);
-  --color-light-slate: rgba(142, 143, 153);
-  --color-cornflower: rgba(231, 233, 252);
-  --color-cloud: rgba(244, 244, 253);
-  --color-navy-blue-modal: rgba(46, 47, 66);
-  --color-grey: rgba(46, 47, 66);
-  --color-white: rgba(255, 255, 255);
-  --color-dairy: rgba(252, 252, 252);
+  --main-title-color:  #2E2F42;
+  --second-title-color: #434455;
+  --therd-title-color: #4D5AE5 
 }
 .list {
   list-style: none;
