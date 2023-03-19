@@ -83,7 +83,7 @@ body {
   color: #ffffff;
 }
 .hero-btn {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   background-color: var(--therd-title-color);
   font-weight: 500;
