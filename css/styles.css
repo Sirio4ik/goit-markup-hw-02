@@ -54,8 +54,8 @@ body {
 .header-link:focus {
   color: #404bbf;
 }
-.header-address{
-  font-style: normal 
+.header-address {
+  font-style: normal;
 }
 .header-address-link {
   font-style: normal;
@@ -68,4 +68,58 @@ body {
 .header-address-link:hover,
 .header-address-link:focus {
   color: #404bbf;
+}
+/* ------HERO------ */
+
+.hero {
+  background-color: var(--main-title-color);
+}
+.hero-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.hero-btn {
+  font-family: "Roboto";
+  font-style: normal;
+  background-color: var(--therd-title-color);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.hero-btn:hover,
+.hero-btn:focus {
+  background: #404bbf;
+}
+
+/* -----ABOUT----- */
+
+.about {
+}
+.about-list {
+}
+.list {
+}
+.about-item {
+}
+.about-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--main-title-color);
+}
+.about-text {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--second-title-color);
 }
