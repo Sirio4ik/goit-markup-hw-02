@@ -157,9 +157,9 @@ body {
   color: var(--main-title-color);
 }
 .team-list {
-  background-color: #ffffff;
 }
 .team-item {
+  background-color: #ffffff;
 }
 .team-title {
   font-weight: 500;
